@@ -1,10 +1,10 @@
-# Desafios Ignite React 2023 <img width="20" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+# Desafio Ignite React 2023 <img width="20" height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
 <br />
 
 ## Desafio 01 - To-Do List
 <img src="https://user-images.githubusercontent.com/71772559/178170317-063200c0-4605-491a-80df-421ae6eef864.png" align="center" />
 
-Durante este desafio, utilizamos os conceitos básicos do React desenvolvendo do zero uma simples lista de tarefas com as opções de criar, apagar e marcar como concluido um item da lista.
+Durante este desafio, utilizei os conceitos básicos do React desenvolvendo do zero uma lista de tarefas com as opções de criar, apagar e marcar como concluido um item da lista, salvando no localStorage.
 
 ### 🛠️ Nesse projeto foi utilizado
 
