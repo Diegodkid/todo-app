@@ -23,7 +23,9 @@ export const Task = ({ task, onDelete, onToggleCompleted }: Props) => {
       <button className={styles.checkContainer} onClick={handleToggleTask}>
         { task.isCompleted ? <BsFillCheckCircleFill /> : <div/> }
       </button>
-      <p>{task.title}</p>
+      <p className={task.isCompleted ? styles.isCompleted : ''}>
+        {task.title}
+      </p>
       <button className={styles.deletButton} onClick={deleteTask}>
         <TbTrash size={24}/>
       </button>
